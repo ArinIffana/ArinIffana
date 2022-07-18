@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 	Hi there, Arin here 👋
 	
-<p> Berikut rekam jejak saya..</p>	<br><a href="https://github.com/ariniffana">
+<a href="https://github.com/ariniffana">
 	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariniffana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariniffana&layout=compact&langs_count=8&theme=algolia"/>	</a>
 
