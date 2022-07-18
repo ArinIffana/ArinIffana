@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	Perkenalkan nama saya Arin 😄
+	Hi there, Arin here 👋
 	
 <p> Berikut rekam jejak saya..</p>	<br><a href="https://github.com/ariniffana">
 	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariniffana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
